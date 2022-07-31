@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: #333333;
+    font-family: "Open Sans", sans-serif;
+}
+.logo{
+    text-align: center;
+}
+.content{
+    border: solid;
+    width: 360px;
+    margin: 0 auto;
+}
+.content h3{
+    /* border: solid; */
+    margin: 20px 0px;
+    color: #333;
+    font-size: 23px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+.content form{
+    /* border: solid; */
+    line-height: 1.5;
+    width: ;
+
+}
+.content .email input{
+    border: 1px solid;
+    width: 100%;
+}
+.content .password input{
+    border: 1px solid;
+    width: 100%;
+}
